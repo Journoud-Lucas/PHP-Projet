@@ -1,0 +1,7 @@
+table {
+    border-collapse: collapse; /* Pour que les bordures des cellules se collent */
+}
+
+table, th, td {
+    border: 1px solid black; /* Définit la bordure pour la table et les cellules */
+}

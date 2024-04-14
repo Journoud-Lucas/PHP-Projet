@@ -1,4 +1,6 @@
 <!DOCTYPE html>
+<!--JOURNOUD Lucas / COSTA Julien
+//Université Lumière Lyon 2 --> 
 <html lang="fr">
   <head>
     <title>Pizz'Express - Menu</title>
@@ -54,7 +56,7 @@
           <div class="row slider-text justify-content-center align-items-center">
 
             <div class="col-md-7 col-sm-12 text-center ftco-animate">
-            	<h1 class="mb-3 mt-5 bread">Nos pizzas</h1>
+            	<h1 class="mb-3 mt-5 bread">Nos délices italiens</h1>
 	            <p class="breadcrumbs"><span class="mr-2"><a href="home.php">Accueil</a></span> <span>Menu</span></p>
             </div>
 
@@ -66,24 +68,21 @@
         <div class="container">
             <div class="row justify-content-center mb-5 pb-3 mt-5 pt-5">
                 <div class="col-md-7 heading-section text-center ftco-animate">
-                    <h2 class="mb-4">Les prix de nos pizzas</h2>
+                    <h2 class="mb-4">Les prix</h2>
                     <p class="flip"><span class="deg1"></span><span class="deg2"></span><span class="deg3"></span></p>
-                    <p class="mt-5">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+                    <p class="mt-5">Découvrez notre gamme variée incluant pizzas traditionnelles, pâtes artisanales et boissons fraîches. Explorez des saveurs authentiques à des prix attractifs, adaptés à toutes les envies culinaires. Profitez d'un repas de qualité, que ce soit pour une pause déjeuner ou un dîner en famille.</p>
                 </div>
             </div>
             <div class="row">
                 [bloc; block=begin]
                 <div class="col-md-6">
                     <div class="pricing-entry d-flex ftco-animate">
-                        <!-- L'image peut être dynamisée ou une placeholder si nécessaire -->
-                        <div class="img" style="background-image: url([bloc.image_url]);"></div>
+                        <div class="img" style="background-image: url(images/[bloc.image_url]);"></div>
                         <div class="desc pl-3">
                             <div class="d-flex text align-items-center">
-                                <!-- Utilisation de la variable de bloc pour le nom et le prix -->
                                 <h3><span>[bloc.name]</span></h3>
                                 <span class="price">€[bloc.price]</span>
                             </div>
-                            <!-- Description de la pizza -->
                             <div class="d-block">
                                 <p>[bloc.description]</p>
                             </div>

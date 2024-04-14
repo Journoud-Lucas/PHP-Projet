@@ -2,9 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\Controllers",
+    "\\Controllers\\js",
     "\\Models",
     "\\Views"
   ],
-  "SelectedNode": "\\Models\\model_menu.php",
+  "SelectedNode": "\\Controllers\\manage_pizza.php",
   "PreviewInSolutionExplorer": false
 }
