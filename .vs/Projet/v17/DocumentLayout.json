@@ -3,32 +3,32 @@
   "WorkspaceRootPath": "C:\\xampp\\htdocs\\Projet\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\Projet\\Models\\model_menu.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\model_menu.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\Projet\\Controllers\\manage_pizza.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\manage_pizza.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\Projet\\Models\\model_login.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\model_login.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\Projet\\Controllers\\js\\manage_pizza.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\js\\manage_pizza.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\Projet\\Controllers\\modifyDatabase.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\modifyDatabase.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\Projet\\Views\\manage_pizzas.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\manage_pizzas.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\Projet\\Controllers\\login.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\login.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\Projet\\Controllers\\css\\table.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\css\\table.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\Projet\\Controllers\\menu.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\menu.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\Projet\\Views\\contact.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\contact.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\Projet\\Controllers\\connect.inc.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\connect.inc.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\Projet\\Views\\home.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\home.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\Projet\\Views\\menu.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\menu.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\Projet\\Views\\footer.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\footer.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,97 +38,97 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "model_login.php",
-              "DocumentMoniker": "C:\\xampp\\htdocs\\Projet\\Models\\model_login.php",
-              "RelativeDocumentMoniker": "Models\\model_login.php",
-              "ToolTip": "C:\\xampp\\htdocs\\Projet\\Models\\model_login.php",
-              "RelativeToolTip": "Models\\model_login.php",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "89320d42-7831-4f47-839a-c227d3a60919.000001|",
-              "WhenOpened": "2024-04-14T17:49:54.732Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "login.php",
-              "DocumentMoniker": "C:\\xampp\\htdocs\\Projet\\Controllers\\login.php",
-              "RelativeDocumentMoniker": "Controllers\\login.php",
-              "ToolTip": "C:\\xampp\\htdocs\\Projet\\Controllers\\login.php",
-              "RelativeToolTip": "Controllers\\login.php",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
-              "Icon": "89320d42-7831-4f47-839a-c227d3a60919.000001|",
-              "WhenOpened": "2024-04-14T17:42:43.667Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "menu.html",
-              "DocumentMoniker": "C:\\xampp\\htdocs\\Projet\\Views\\menu.html",
-              "RelativeDocumentMoniker": "Views\\menu.html",
-              "ToolTip": "C:\\xampp\\htdocs\\Projet\\Views\\menu.html",
-              "RelativeToolTip": "Views\\menu.html",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-04-14T17:29:14.574Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "menu.php",
-              "DocumentMoniker": "C:\\xampp\\htdocs\\Projet\\Controllers\\menu.php",
-              "RelativeDocumentMoniker": "Controllers\\menu.php",
-              "ToolTip": "C:\\xampp\\htdocs\\Projet\\Controllers\\menu.php",
-              "RelativeToolTip": "Controllers\\menu.php",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "89320d42-7831-4f47-839a-c227d3a60919.000001|",
-              "WhenOpened": "2024-04-14T16:27:09.215Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "model_menu.php",
-              "DocumentMoniker": "C:\\xampp\\htdocs\\Projet\\Models\\model_menu.php",
-              "RelativeDocumentMoniker": "Models\\model_menu.php",
-              "ToolTip": "C:\\xampp\\htdocs\\Projet\\Models\\model_menu.php",
-              "RelativeToolTip": "Models\\model_menu.php",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAACoAAAACAAAA",
+              "Title": "manage_pizza.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\Projet\\Controllers\\manage_pizza.php",
+              "RelativeDocumentMoniker": "Controllers\\manage_pizza.php",
+              "ToolTip": "C:\\xampp\\htdocs\\Projet\\Controllers\\manage_pizza.php",
+              "RelativeToolTip": "Controllers\\manage_pizza.php",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAABoAAAAfAAAA",
               "Icon": "89320d42-7831-4f47-839a-c227d3a60919.000001|",
-              "WhenOpened": "2024-04-14T16:26:52.41Z",
+              "WhenOpened": "2024-04-14T20:42:09.256Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "connect.inc.php",
-              "DocumentMoniker": "C:\\xampp\\htdocs\\Projet\\Controllers\\connect.inc.php",
-              "RelativeDocumentMoniker": "Controllers\\connect.inc.php",
-              "ToolTip": "C:\\xampp\\htdocs\\Projet\\Controllers\\connect.inc.php",
-              "RelativeToolTip": "Controllers\\connect.inc.php",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
-              "Icon": "89320d42-7831-4f47-839a-c227d3a60919.000001|",
-              "WhenOpened": "2024-04-14T16:26:37.849Z",
+              "DocumentIndex": 1,
+              "Title": "manage_pizza.js",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\Projet\\Controllers\\js\\manage_pizza.js",
+              "RelativeDocumentMoniker": "Controllers\\js\\manage_pizza.js",
+              "ToolTip": "C:\\xampp\\htdocs\\Projet\\Controllers\\js\\manage_pizza.js",
+              "RelativeToolTip": "Controllers\\js\\manage_pizza.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-14T20:37:53.658Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "modifyDatabase.php",
-              "DocumentMoniker": "C:\\xampp\\htdocs\\Projet\\Controllers\\modifyDatabase.php",
-              "RelativeDocumentMoniker": "Controllers\\modifyDatabase.php",
-              "ToolTip": "C:\\xampp\\htdocs\\Projet\\Controllers\\modifyDatabase.php",
-              "RelativeToolTip": "Controllers\\modifyDatabase.php",
-              "ViewState": "AQIAAEUAAAAAAAAAAAAUwFoAAAAHAAAA",
-              "Icon": "89320d42-7831-4f47-839a-c227d3a60919.000001|",
-              "WhenOpened": "2024-04-14T16:13:08.235Z",
+              "Title": "manage_pizzas.html",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\Projet\\Views\\manage_pizzas.html",
+              "RelativeDocumentMoniker": "Views\\manage_pizzas.html",
+              "ToolTip": "C:\\xampp\\htdocs\\Projet\\Views\\manage_pizzas.html",
+              "RelativeToolTip": "Views\\manage_pizzas.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEAAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-04-14T20:33:37.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "table.css",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\Projet\\Controllers\\css\\table.css",
+              "RelativeDocumentMoniker": "Controllers\\css\\table.css",
+              "ToolTip": "C:\\xampp\\htdocs\\Projet\\Controllers\\css\\table.css",
+              "RelativeToolTip": "Controllers\\css\\table.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-14T20:35:18.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "home.html",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\Projet\\Views\\home.html",
+              "RelativeDocumentMoniker": "Views\\home.html",
+              "ToolTip": "C:\\xampp\\htdocs\\Projet\\Views\\home.html",
+              "RelativeToolTip": "Views\\home.html",
+              "ViewState": "AQIAAPkAAAAAAAAAAAAAAAsBAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-04-14T20:31:54.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "footer.html",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\Projet\\Views\\footer.html",
+              "RelativeDocumentMoniker": "Views\\footer.html",
+              "ToolTip": "C:\\xampp\\htdocs\\Projet\\Views\\footer.html",
+              "RelativeToolTip": "Views\\footer.html",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACMAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-04-14T20:29:27.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "contact.html",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\Projet\\Views\\contact.html",
+              "RelativeDocumentMoniker": "Views\\contact.html",
+              "ToolTip": "C:\\xampp\\htdocs\\Projet\\Views\\contact.html",
+              "RelativeToolTip": "Views\\contact.html",
+              "ViewState": "AQIAAHAAAAAAAAAAAAAjwH0AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-04-14T20:28:23.895Z",
               "EditorCaption": ""
             }
           ]
