@@ -10,7 +10,7 @@ offre à ses clients une expérience culinaire mémorable. Les clients peuvent p
 pour des repas en famille ou entre amis. Le site web intègre une gestion du menu permettant aux responsables
 du restaurant de mettre à jour facilement les offres, garantissant ainsi que les options disponibles sont toujours fraîches et attrayantes.
 
-![Pizz'Express](https://i.ibb.co/jHCyYkp/image.png)
+![Pizz'Express](https://github.com/Journoud-Lucas/PHP-Projet/assets/121774241/f33f3eda-cf9a-4b49-8b6b-8b1a1a2a2abf)
 
 
 ## 🎓 Projet d'école
