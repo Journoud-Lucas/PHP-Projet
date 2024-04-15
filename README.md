@@ -12,7 +12,6 @@ du restaurant de mettre à jour facilement les offres, garantissant ainsi que le
 
 ![Pizz'Express](https://github.com/Journoud-Lucas/PHP-Projet/assets/121774241/f33f3eda-cf9a-4b49-8b6b-8b1a1a2a2abf)
 
-
 ## 🎓 Projet d'école
 Il s'agit d'un petit projet fait pour [l'Université Lumière Lyon 2](https://www.univ-lyon2.fr/).
 En effet nous devions faire en peu de temps un petit projet PHP utilisant la librairie TinyButStrong et mettant en œuvre plusieurs notions vue en classe comme le MVC, les sessions etc...
@@ -22,10 +21,16 @@ En effet nous devions faire en peu de temps un petit projet PHP utilisant la lib
 - **Gestion de la base de donnée :** Ajoutez ou modifiez voire supprimez des elements du menu de la base de données facilement en se connectant.
 
 ## Architecture du site
-W.I.P
+![image](https://github.com/Journoud-Lucas/PHP-Projet/assets/121774241/2cb4067c-c9f1-4585-ab4d-0fb5fba56f7f)
 
 ## Schéma conceptuel de la base de données
-W.I.P
+![image](https://github.com/Journoud-Lucas/PHP-Projet/assets/121774241/ab44f196-b2d5-4dc2-96e9-1d79bd744705)
+
+La base de données est très réduite. 
+Nous avons juste besoin du nom de l’élément de menu à ajouter.
+Ainsi que sa brève description.
+À cela on ajoute le prix (en €).
+Et on termine par ajouter le nom de l’image. L’image doit être dans le dossier image.
 
 ## 🔢 Versionnage
 Ce projet suit un schéma de [versionnement sémantique](https://semver.org/).
