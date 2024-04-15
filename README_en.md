@@ -21,10 +21,13 @@ In a short space of time, we had to create a small PHP project using the TinyBut
 - **Database management:** Add, modify or remove items from the database menu easily by logging in.
 
 ## Site architecture
-W.I.P
+*Diagrams in French*
+![image](https://github.com/Journoud-Lucas/PHP-Projet/assets/121774241/5a6f7dbc-5625-4327-9475-ee0f7abea689)
+
 
 ## Conceptual database diagram
-W.I.P
+![image](https://github.com/Journoud-Lucas/PHP-Projet/assets/121774241/1ab01b5a-3c97-43fb-8cc0-4742eb6a5cf1)
+
 
 ## 🔢 Versioning
 This project is following [semantic versioning schema](https://semver.org/).
