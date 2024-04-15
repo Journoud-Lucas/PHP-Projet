@@ -22,7 +22,6 @@ try {
 // Création d'une instance du modèle pour les pizzas
 $modele = new ModeleMenu($pdo);
 $pizzas = $modele->GetAllMenu(); // Obtention de toutes les pizzas disponibles pour l'affichage
-
 // Charger le template principal
 $tbs->LoadTemplate("../Views/menu.html");
 $tbs->MergeBlock('bloc', $pizzas); // Fusion du bloc de pizzas dans le template

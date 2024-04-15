@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<!--JOURNOUD Lucas / COSTA Julien
+//Université Lumière Lyon 2 --> 
+<html lang="fr">
+    <head>
+        <meta charset="utf-8">
+        <title>Pizz'Express - Gestion des Pizzas</title>
+        <link rel="stylesheet" type="text/css" href="css/table.css">
+    </head>
+    <body>
+        <form method="post">
+            <input type="hidden" name="id" value="[selectedPizza.id;htmlconv=no]">
+            <p>
+                <label>Nom:</label>
+                <input type="text" name="name" value="[selectedPizza.name;htmlconv=no]">
+            </p>
+            <p>
+                <label>Description:</label>
+                <input type="text" name="description" value="[selectedPizza.description;htmlconv=no]">
+            </p>
+            <p>
+                <label>Prix:</label>
+                <input type="text" name="price" value="[selectedPizza.price;htmlconv=no]">
+            </p>
+            <p>
+                <label>URL de l'image:</label>
+                <input type="text" name="image_url" value="[selectedPizza.image_url;htmlconv=no]">
+            </p>
+            <p>
+                <input type="submit" id="submitButton" name="add" value="Ajouter">
+            </p>
+        </form>
+
+        <table>
+            <tr>
+                <th>ID</th>
+                <th>Nom</th>
+                <th>Description</th>
+                <th>Prix</th>
+                <th>Image</th>
+                <th>Actions</th>
+            </tr>
+            [bloc; block=begin]
+            <tr>
+                <td>[bloc.id;block=tr]</td>
+                <td>[bloc.name]</td>
+                <td>[bloc.description]</td>
+                <td>[bloc.price]</td>
+                <td><img src="[bloc.image_url;htmlconv=no]" height="50" width="50"></td>
+                <td>
+                    <form method="post">
+                        <input type="hidden" name="id" value="[bloc.id;htmlconv=no]">
+                        <input type="submit" name="deletePizza" value="Supprimer">
+                        <a href="?edit=[bloc.id;htmlconv=no]">Modifier</a>
+                    </form>
+                </td>
+            </tr>
+            [bloc; block=end]
+        </table>
+        <p>
+            <button onclick="goToParentPage();">Retour</button>
+        </p>
+            <script src="js/manage_pizza.js"></script>
+    </body>
+</html>
